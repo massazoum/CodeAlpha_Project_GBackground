@@ -1,12 +1,13 @@
-body, ul {
- margin: 0;
- padding: 0;
- list-style: none;
+body,
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
 body {
- font-family: Arial, sans-serif;
- background-color: #f1f5f8;
+  font-family: Arial, sans-serif;
+  background-color: #f1f5f8;
 }
 
 nav {
@@ -22,14 +23,14 @@ nav {
 }
 
 .nav-center h4 {
- font-size: 24px;
- margin: 0;
+  font-size: 24px;
+  margin: 0;
 }
 
 .nav-link {
- display: flex;
- list-style: none;
- padding: 0;
+  display: flex;
+  list-style: none;
+  padding: 0;
 }
 
 .li1 {
